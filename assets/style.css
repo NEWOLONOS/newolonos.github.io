@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Kiss Boom;
+  src: url(/assets/kiss_boom.ttf);
+  font-weight: normal;
+}
+
+top {
+  font-family: Kiss Boom;
+  font-weight: normal;
+  font-style: normal;
+}
