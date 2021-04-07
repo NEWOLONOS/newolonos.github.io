@@ -12,6 +12,14 @@ body {
   background-color: #000000;
 }
 
+.grow {
+transition: all 2s ease-in-out;
+}
+
+.animation {
+
+}
+
 .top {
   font-family: orbitron;
   font-size: 70px;
@@ -22,12 +30,29 @@ body {
 
 .instagram {
   font-family: hermit;
-  color: #ff0000;
-  margin-left: 400px;
+  color: #c90000;
 }
 
 .github {
   font-family: hermit;
   color: #1fba0c;
-  margin-left: 50px;
+  margin-left: 20px;
+}
+
+.discord {
+  font-family: hermit;
+  color: #0008cc;
+  margin-left: 20px;
+}
+
+.mail {
+  font-family: hermit;
+  color: #c95500;
+  margin-left: 20px;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
 }
