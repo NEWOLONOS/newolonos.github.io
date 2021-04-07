@@ -1,11 +1,8 @@
-@font-face {
-  font-family: Kiss Boom;
-  src: url(/assets/kiss_boom.ttf);
-  font-weight: normal;
+body {
+  background-color: lightblue;
 }
 
-top {
-  font-family: Kiss Boom;
-  font-weight: normal;
-  font-style: normal;
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
