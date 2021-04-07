@@ -1,8 +1,33 @@
-body {
-  background-color: lightblue;
+@font-face {
+  font-family: orbitron;
+  src: url(Orbitron-Medium.ttf);
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+@font-face {
+  font-family: hermit;
+  src: url(Hermit-Bold.otf);
+}
+
+body {
+  background-color: #000000;
+}
+
+.top {
+  font-family: orbitron;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+.instagram {
+  font-family: hermit;
+  color: #ff0000;
+  margin-left: 400px;
+}
+
+.github {
+  font-family: hermit;
+  color: #1fba0c;
+  margin-left: 50px;
 }
