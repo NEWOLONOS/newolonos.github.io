@@ -20,6 +20,17 @@ body {
   color: #ffffff;
 }
 
+.about {
+  font-size: 25px;
+  font-family: hermit;
+  color: #00b117;
+  margin-right: 10px;
+}
+
+.about-div {
+  text-align: right;
+}
+
 .instagram {
   font-size: 25px;
   font-family: hermit;
@@ -29,7 +40,7 @@ body {
 .github {
   font-size: 25px;
   font-family: hermit;
-  color: #1fba0c;
+  color: #ffed00;
   margin-left: 20px;
 }
 
@@ -51,4 +62,12 @@ body {
   text-align: center;
   vertical-align: middle;
   line-height: 90px;
+}
+
+.about-site {
+  font-family: orbitron;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 30px;
+  color: #ffffff;
 }
