@@ -21,23 +21,27 @@ body {
 }
 
 .instagram {
+  font-size: 25px;
   font-family: hermit;
   color: #c90000;
 }
 
 .github {
+  font-size: 25px;
   font-family: hermit;
   color: #1fba0c;
   margin-left: 20px;
 }
 
 .discord {
+  font-size: 25px;
   font-family: hermit;
-  color: #0008cc;
+  color: #002adf;
   margin-left: 20px;
 }
 
 .mail {
+  font-size: 25px;
   font-family: hermit;
   color: #c95500;
   margin-left: 20px;
