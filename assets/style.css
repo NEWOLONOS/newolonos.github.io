@@ -1,6 +1,6 @@
 @font-face {
-  font-family: orbitron;
-  src: url(Orbitron-Medium.ttf);
+  font-family: oliciy;
+  src: url(Oliciy.ttf);
 }
 
 @font-face {
@@ -13,7 +13,7 @@ body {
 }
 
 .top {
-  font-family: orbitron;
+  font-family: oliciy;
   font-size: 70px;
   text-align: center;
   margin-top: 30px;
@@ -65,7 +65,7 @@ body {
 }
 
 .about-site {
-  font-family: orbitron;
+  font-family: oliciy;
   font-size: 70px;
   text-align: center;
   margin-top: 30px;
