@@ -42,7 +42,7 @@ a:hover:after {
 .instagram {
   font-size: 25px;
   font-family: hermit;
-  color: #c90000;
+  color: #f10a1c;
 }
 
 .github {
@@ -55,14 +55,14 @@ a:hover:after {
 .discord {
   font-size: 25px;
   font-family: hermit;
-  color: #002adf;
+  color: #7289da;
   margin-left: 20px;
 }
 
 .mail {
   font-size: 25px;
   font-family: hermit;
-  color: #c95500;
+  color: #00ffdf;
   margin-left: 20px;
 }
 
@@ -72,49 +72,14 @@ a:hover:after {
   line-height: 90px;
 }
 
-.about {
-  font-size: 25px;
-  font-family: hermit;
-  color: #00b117;
-  margin-right: 10px;
-}
-
-.about-div {
-  text-align: right;
-}
-
-.about-site {
-  font-family: neuropol;
-  font-size: 65px;
-  text-align: center;
-  margin-top: 30px;
-  color: #ffffff;
-}
-
-.home {
-  font-size: 25px;
-  font-family: hermit;
-  color: #00b117;
-  margin-left: 10px;
-}
-
-.home-div {
-  text-align: left;
-}
-
 .link {
   text-decoration: none;
-}
-
-.about-site-div {
-  text-align: center;
 }
 
 .about-text {
   font-size: 25px;
   font-family: hermit;
   color: #ffffff;
-
 }
 
 .html {
@@ -130,5 +95,5 @@ a:hover:after {
 }
 
 .github-repo {
-  color: #21ebcf;
+  color: #00ff57;
 }
