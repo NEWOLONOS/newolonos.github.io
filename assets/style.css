@@ -1,19 +1,38 @@
 @font-face {
-  font-family: oliciy;
-  src: url(Oliciy.ttf);
+  font-family: neuropol;
+  src: url(Neuropol.ttf);
 }
 
 @font-face {
   font-family: hermit;
-  src: url(Hermit-Bold.otf);
+  src: url(Hermit.otf);
 }
 
 body {
   background-color: #000000;
 }
 
+a {
+  text-decoration: none;
+  position: relative;
+}
+
+a:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid;
+  transition: 0.4s;
+}
+
+a:hover:after {
+  width: 100%;
+}
+
 .top {
-  font-family: oliciy;
+  font-family: neuropol;
   font-size: 70px;
   text-align: center;
   margin-top: 30px;
@@ -65,7 +84,7 @@ body {
 }
 
 .about-site {
-  font-family: oliciy;
+  font-family: neuropol;
   font-size: 70px;
   text-align: center;
   margin-top: 30px;
@@ -85,4 +104,31 @@ body {
 
 .link {
   text-decoration: none;
+}
+
+.about-site-div {
+  text-align: center;
+}
+
+.about-text {
+  font-size: 25px;
+  font-family: hermit;
+  color: #ffffff;
+
+}
+
+.html {
+  color: #f06529;
+}
+
+.css {
+  color: #1e90ff;
+}
+
+.github-pages {
+  color: #ffed00;
+}
+
+.github-repo {
+  color: #21ebcf;
 }
