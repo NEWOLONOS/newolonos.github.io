@@ -24,7 +24,7 @@ a:after {
   left: 0;
   width: 0%;
   border-bottom: 2px solid;
-  transition: 0.4s;
+  transition: 1.5s;
 }
 
 a:hover:after {
@@ -40,28 +40,20 @@ a:hover:after {
 }
 
 .instagram {
-  font-size: 25px;
-  font-family: hermit;
   color: #f10a1c;
 }
 
 .github {
-  font-size: 25px;
-  font-family: hermit;
   color: #ffed00;
   margin-left: 20px;
 }
 
 .discord {
-  font-size: 25px;
-  font-family: hermit;
   color: #7289da;
   margin-left: 20px;
 }
 
 .mail {
-  font-size: 25px;
-  font-family: hermit;
   color: #00ffdf;
   margin-left: 20px;
 }
@@ -74,6 +66,8 @@ a:hover:after {
 
 .link {
   text-decoration: none;
+  font-size: 25px;
+  font-family: hermit;
 }
 
 .about-text {
