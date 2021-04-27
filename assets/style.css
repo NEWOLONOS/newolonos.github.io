@@ -12,12 +12,12 @@ body {
   background-color: #000000;
 }
 
-a {
+.hover {
   text-decoration: none;
   position: relative;
 }
 
-a:after {
+.hover:after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -27,7 +27,7 @@ a:after {
   transition: 1s;
 }
 
-a:hover:after {
+.hover:hover:after {
   width: 100%;
 }
 
@@ -50,7 +50,6 @@ a:hover:after {
 
 .discord {
   color: #7289da;
-  margin-left: 20px;
 }
 
 .mail {
