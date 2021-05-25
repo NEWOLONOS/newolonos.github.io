@@ -1,0 +1,92 @@
+@font-face {
+  font-family: neuropol;
+  src: url(Neuropol.ttf);
+}
+
+@font-face {
+  font-family: hermit;
+  src: url(Hermit.otf);
+}
+
+body {
+  background-color: #000000;
+}
+
+.hover {
+  text-decoration: none;
+  position: relative;
+}
+
+.hover:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid;
+  transition: 1s;
+}
+
+.hover:hover:after {
+  width: 100%;
+}
+
+.top {
+  font-family: neuropol;
+  font-size: 65px;
+  text-align: center;
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+.instagram {
+  color: #f10a1c;
+}
+
+.github {
+  color: #ffed00;
+  margin-left: 20px;
+}
+
+.discord {
+  color: #7289da;
+}
+
+.mail {
+  color: #00ffdf;
+  margin-left: 20px;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 25px;
+  font-family: hermit;
+}
+
+.about-text {
+  font-size: 25px;
+  font-family: hermit;
+  color: #ffffff;
+}
+
+.html {
+  color: #f06529;
+}
+
+.css {
+  color: #1e90ff;
+}
+
+.euserv {
+  color: #10396f;
+}
+
+.freenom {
+  color: #31adef;
+}
