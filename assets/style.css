@@ -94,7 +94,7 @@ body {
 .fourzerofour {
   font-family: neuropol;
   color: #ffffff;
-  font-size: 200px;
+  font-size: 90px;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 100px;
@@ -102,14 +102,14 @@ body {
 
 .pagenotfound {
   font-family: hermit;
-  font-size: 60px;
+  font-size: 30px;
   color: #ffffff;
   text-align: center;
   }
 
 .home {
     font-family: hermit;
-    font-size: 60px;
+    font-size: 30px;
     color: #0ddb6c;
   }
 
