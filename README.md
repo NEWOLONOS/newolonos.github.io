@@ -5,4 +5,4 @@ By the way, I've done almost nothing with **HTML/CSS** until now, so I have abso
 Anyway, I'll give it a try :)
 
 
-Click <a href="http://newolonos.gq" target="_blank">here</a> to go to my website :D
+Click (here)[https://newolonos.gq] to go to my website :D
