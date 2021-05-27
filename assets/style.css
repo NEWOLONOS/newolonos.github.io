@@ -90,3 +90,29 @@ body {
 .freenom {
   color: #31adef;
 }
+
+.fourzerofour {
+  font-family: neuropol;
+  color: #ffffff;
+  font-size: 200px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+.pagenotfound {
+  font-family: hermit;
+  font-size: 60px;
+  color: #ffffff;
+  text-align: center;
+  }
+
+.home {
+    font-family: hermit;
+    font-size: 60px;
+    color: #0ddb6c;
+  }
+
+ .align {
+   text-align: center;
+ }
