@@ -24,7 +24,7 @@ background-color: #000000;
   left: 0;
   width: 0%;
   border-bottom: 2px solid;
-  transition: 1s;
+  transition: 0.7s;
 }
 
 .hover:hover:after {
