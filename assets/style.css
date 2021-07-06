@@ -44,7 +44,7 @@ background-color: #000000;
 }
 
 .github {
-  color: #ffed00;
+  color: #a64ab1;
   margin-left: 20px;
 }
 
@@ -54,6 +54,11 @@ background-color: #000000;
 
 .mail {
   color: #00ffdf;
+  margin-left: 20px;
+}
+
+.privatebin {
+  color: #fcf503;
   margin-left: 20px;
 }
 
@@ -84,7 +89,7 @@ background-color: #000000;
 }
 
 .github-pages {
-  color: #ffed00;
+  color: #a64ab1;
 }
 
 .freenom {
